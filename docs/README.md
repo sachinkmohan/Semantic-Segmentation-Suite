@@ -1,5 +1,13 @@
 # Semantic Segmentation Suite in TensorFlow
 
+##
+#### Changes made by me
+Tested on TF 1.15
+
+- Added a tools_additional folder
+- Added the all_layers.txt to review the input and output layers 
+##
+
 ![alt-text-10](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite/blob/master/Images/semseg.gif)
 
 ## News
